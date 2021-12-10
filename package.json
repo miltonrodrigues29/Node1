@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asynchronous.js",
+  "scripts": {
+    "start": "nodemon demo.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonrodrigues29/Node1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miltonrodrigues29/Node1/issues"
+  },
+  "homepage": "https://github.com/miltonrodrigues29/Node1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
